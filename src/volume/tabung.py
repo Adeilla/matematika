@@ -1,2 +1,2 @@
-def volume_tabung(r, tinggi):
-  return 22/7 * r * r * tinggi
+def volume (radius, tinggi):
+  return 22/7 * radius * radius * tinggi
